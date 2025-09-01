@@ -60,7 +60,8 @@ plain[i] = plain[i] + 26;
 } 
 printf("%c", plain[i]); 
 } 
-plain[length] = '\0'; // Null-terminate the plain text string return 0;                                                    
+plain[length] = '\0'; // Null-terminate the plain text string
+return 0;                                                    
 } 
 ```
 ## OUTPUT: 
