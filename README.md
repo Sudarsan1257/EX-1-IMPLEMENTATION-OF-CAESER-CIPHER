@@ -65,7 +65,8 @@ return 0;
 } 
 ```
 ## OUTPUT: 
-<img width="915" height="370" alt="Screenshot 2025-09-01 143630" src="https://github.com/user-attachments/assets/515880c1-d9ae-4873-8058-602d9e9940df" />
+
+<img width="886" height="447" alt="Screenshot 2025-09-01 190621" src="https://github.com/user-attachments/assets/541a195f-62cd-407c-a93e-2f11266df39c" />
 
 ## RESULT: 
 The program implementing the Caesar cipher for encryption and decryption has been successfully  executed, and the results have been verified.
